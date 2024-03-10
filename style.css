@@ -3,3 +3,19 @@ body {
   height: 100%;
   margin: 0;
 }
+header{
+  text-align: center;
+}
+#featured-property p{
+  width: 800;
+  text-align: center;
+  margin: 20px 0;
+}
+#featured-property{
+  width:100%;
+  margin:0 auto;
+}
+h3,p{
+  text-align: center;
+}
+
